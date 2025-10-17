@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/gonser-remote">
    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gonser-remote&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonser-remote&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonser-remote&show=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
